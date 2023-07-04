@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "eAKxHFZpm+eAorRRQTZeheThW4IfTre4/mBRPhhpe1QUiVQzopeJz7yFYl1vVFSW5MtMzu8AQi1AYa+sM/8zEA==",
+  "success": true,
+  "projectFilePath": "/Users/bre/RiderProjects/GISApi/GISApi/GISApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/bre/.nuget/packages/dbase.net/1.2.1/dbase.net.1.2.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'dBASE.NET 1.2.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "dBASE.NET",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
